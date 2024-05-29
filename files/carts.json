@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"includedProducts": []
+	},
+	{
+		"id": 2,
+		"includedProducts": [
+			{
+				"id": 3,
+				"quantity": 2
+			},
+			{
+				"id": 52,
+				"quantity": 4
+			}
+		]
+	},
+	{
+		"id": 3,
+		"includedProducts": []
+	},
+	{
+		"id": 4,
+		"includedProducts": []
+	},
+	{
+		"id": 5,
+		"includedProducts": []
+	},
+	{
+		"id": 6,
+		"includedProducts": [
+			{
+				"id": 4,
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"id": 7,
+		"includedProducts": []
+	}
+]
