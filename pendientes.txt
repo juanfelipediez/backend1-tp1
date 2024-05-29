@@ -1,7 +1,0 @@
-tabular
-errores
-comentar
-github
-imagenes
-files
-isNan
