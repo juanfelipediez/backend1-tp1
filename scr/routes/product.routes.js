@@ -92,7 +92,7 @@ router.delete("/:pid", (req, res) => {
         return
     }
 
-    if(isNaN(Number(id))){
+    if(isNaN(Number(pid))){
         res.status(400).json(`Only numbers are allowed. Please enter the ID of the product you want to delete.`)
         return
     }
